@@ -2,4 +2,4 @@
 
 React JS project.
 
-link
+https://6-cocktails.netlify.app/
